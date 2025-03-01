@@ -3,7 +3,8 @@
 Plugin Name: Ads Before Redirect
 Description: Menampilkan iklan sebelum redirect ke link tujuan.
 Version: 1.0
-Author: Kamu
+Author: Dedi Ir
+Url Author: https://abjad.eu.org
 */
 
 if( !defined( 'YOURLS_ABSPATH' ) ) die();
