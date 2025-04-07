@@ -1,9 +1,8 @@
-Plugin untuk aplikasi yourls
+# Plugin untuk Aplikasi YOURLS
 
-plugin ini digunakan untuk memberikan iklan sebelum menuju halaman yang di tuju
-Implementasi: https://go.abjad.eu.org/TpoN3
+Plugin ini digunakan untuk memberikan iklan sebelum menuju halaman yang dituju.
 
+Implementasi: [go.abjad.eu.org/TpoN3](https://go.abjad.eu.org/TpoN3)
 
-
-
-https://edu.abjad.eu.org @2025
+by Dedi Ir
+[edu.abjad.eu.org](https://edu.abjad.eu.org) @2025
